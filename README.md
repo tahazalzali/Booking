@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+## Course Project Submission Instructions
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Project Overview:**
+Throughout this course, you have revisited essential concepts of front-end development using React. Your practical application involved building a web application for the Little Lemon restaurant, focusing on a table booking system.
 
-## Available Scripts
+**Tasks Completed:**
+- Engaged with course materials including exercises and additional resources.
+- Developed a web form to manage table bookings, integrating skills in UX/UI design and React development.
+- Prepared for a peer review process, where your work will be evaluated and you will assess projects from two peers.
 
-In the project directory, you can run:
+**Submission Process:**
+To submit your project for peer review, follow these steps:
 
-### `npm start`
+1. **Navigate to the Submission Interface:**
+   - Click on the "My Submission" tab.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. **Project Details:**
+   - Provide a project title, e.g., "Front-end Developer Capstone Project".
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3. **Repository Link:**
+   - Paste the URL of the GitHub repository containing your project code.
 
-### `npm test`
+**Evaluation Criteria:**
+Peers will review your submission based on the following criteria:
+- Adherence to the specified UX/UI design.
+- Application of appropriate accessibility tags.
+- Inclusion of unit tests in the web app.
+- Functionality and validation checks in the booking form.
+- Semantic correctness and responsiveness of the web app.
+- Proper version control with commits to a Git repository.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Final Steps:**
+Once satisfied with the functionality and testing of your project:
+- Ensure your code is committed and pushed to your GitHub repository.
+- Follow the submission steps to make your project accessible for peer review.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Tools Used:**
+- Development Environment: VS Code
+- Code Hosting: GitHub
